@@ -1,0 +1,6 @@
+jsonlib==1.6.1
+uuid-utils==more than version 4
+getpass4==0.0.14.1
+hashlib-additional==1.1
+uuid==1.30
+os-sys==2.1.4
